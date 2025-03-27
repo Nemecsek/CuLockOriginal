@@ -1,3 +1,5 @@
+This is for **Esp32 WT32-SC01 PLUS** (Seeed Studio)
+
 1) Platformio in VSCode.
 
 2) Access Point: CuLock w
